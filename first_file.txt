@@ -1,0 +1,3 @@
+touch first_file.txt
+code first_file.txt
+Hello World! This is my first file on GitHub.
